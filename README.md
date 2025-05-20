@@ -70,11 +70,11 @@ tek bir platformda kullanıcıya sunmaktır.
 
 ---
 
-🔒 Not
-Bu proje, TÜBİTAK 4006-B Bilim Fuarı kapsamında Demirci Ahi Evran Mesleki ve Teknik Anadolu Lisesi tarafından başvurusu yapılmış ve kabul edilmiştir.
+🔒 Not:
+ Bu proje, TÜBİTAK 4006-B Bilim Fuarı kapsamında Demirci Ahi Evran Mesleki ve Teknik Anadolu Lisesi tarafından başvurusu yapılmış ve kabul edilmiştir.
 Tüm yazılım geliştirme süreci tarafımdan bireysel olarak hazırlanmıştır.
 
-Bu sayfa yalnızca sistemin genel yapısını ve görsellerini tanıtmak amacıyla hazırlanmıştır.
+Yalnızca sistemin genel yapısını ve görsellerini tanıtmak amacıyla hazırlanmıştır.
 Kodların tamamı paylaşılmamaktadır.
 
 ---
